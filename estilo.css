@@ -1,0 +1,57 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+scan {
+  color: #56ff01;
+}
+
+figure {
+  text-align: left;
+}
+
+figcaption {
+  margin-top: 10px;
+}
+
+.imagem {
+  position: fixed;
+  left: 0;
+  width: 100vw;
+  height: 80vh;
+  margin-top: 85px;
+  display: block;
+}
+
+#mainnav {
+  background-color: #ffffff;
+}
+
+#mainnav li {
+  display: inline;
+  padding: 95px;
+  text-align: center;
+  font-size: 23px;
+}
+
+#mainnav ul {
+  margin: 10pt 30pt;
+  padding: 20px;
+}
+
+#mainnav li a {
+  text-decoration: none;
+  color: #1e00ff;
+}
+
+#mainnav li a:hover {
+  text-decoration: none;
+  color: #56ff01;
+  background-color: gray;
+}
+
+#inicio {
+  color: black;
+  position: fixed;
+  top: 0;
+}

@@ -1,0 +1,108 @@
+* {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  background-color: white;
+}
+
+body {
+  background-image: url(IMG/Hydrogen-Gas-Detection-Solutions.webp);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+scan {
+  color: #56ff01;
+}
+
+.Textos {
+  width: 100%;
+  border: solid 2px #000000;
+  margin: 1rem;
+  background-color: white;
+  margin-left: 50%;
+  max-width: 850px;
+}
+
+.Textos2 {
+  width: 100%;
+  border: solid 2px #000000;
+  margin: 1rem;
+  background-color: white;
+  margin-left: 50%;
+  max-width: 850px;
+}
+
+.CorpoTextos {
+  align-items: center;
+  max-width: auto;
+  display: block;
+  justify-content: space-evenly;
+  text-align: justify;
+  margin-top: 125px;
+}
+
+.centro {
+  text-align: center;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.legendas {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 14px;
+}
+
+.topicos {
+  font-weight: bold;
+  color: #000000;
+}
+
+.pG {
+  font-size: large;
+  margin: 10px;
+  text-indent: 1.5em;
+  text-align: justify;
+}
+
+#cabeçalho li {
+  display: inline;
+  padding: 95px;
+  text-align: center;
+  font-size: 23px;
+}
+
+#cabeçalho ul {
+  margin: 10pt 30pt;
+  padding: 20px;
+  display: absolute;
+}
+
+#cabeçalho li a {
+  text-decoration: none;
+  color: #1e00ff;
+}
+
+#cabeçalho li a:hover {
+  text-decoration: none;
+  color: #56ff01;
+  background-color: gray;
+}
+
+#inicio {
+  color: black;
+  position: fixed;
+  top: 0;
+}
